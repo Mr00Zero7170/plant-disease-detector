@@ -1,0 +1,11 @@
+dataset/
+PlantVillage_raw/
+*.keras
+*.h5
+__pycache__/
+*.pyc
+.env
+venv/
+training_curves.png
+confusion_matrix.png
+.DS_Store
